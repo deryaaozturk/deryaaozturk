@@ -1,4 +1,4 @@
- [![MasterHead](http://images.pexels.com/photos/11035474/pexels-photo-11035474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+[![MasterHead](http://images.pexels.com/photos/11035474/pexels-photo-11035474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 <h1 align="center">Hi 👋, I'm Derya</h1>
