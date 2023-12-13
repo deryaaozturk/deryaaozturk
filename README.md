@@ -1,4 +1,4 @@
-[![MasterHead](http://miro.medium.com/v2/resize:fit:690/1*jsgLaIkhgF7SzQS1FWIPug.jpeg)
+&nbsp;&nbsp;&nbsp;&nbsp;[![MasterHead](http://miro.medium.com/v2/resize:fit:690/1*jsgLaIkhgF7SzQS1FWIPug.jpeg)
 
 
 <h1 align="center">Hi 👋, I'm Derya</h1>
