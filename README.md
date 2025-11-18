@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
   <!-- SAP UI5 -->
-  <img src="https://sap.github.io/ui5-webcomponents/assets/images/sap-ui5-logo.png" alt="ui5" width="40" height="40"/>
+<img src="https://sap.github.io/ui5-tooling/v3/assets/images/UI5_logo_wide.png" alt="ui5" width="60" height="30"/>
 
   <!-- SAP BTP -->
   <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" alt="sapbtp" width="55" height="40"/>
